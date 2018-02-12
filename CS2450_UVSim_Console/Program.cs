@@ -10,7 +10,7 @@ namespace CS2450_UVSim_Console
 	{
 		static void Main(string[] args)
 		{
-
+			Console.ReadLine();
 
 		}
 	}

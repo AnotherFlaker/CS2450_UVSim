@@ -1,0 +1,7 @@
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\bin\Debug\CS2450_UVSim_Console.exe.config
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\bin\Debug\CS2450_UVSim_Console.exe
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\bin\Debug\CS2450_UVSim_Console.pdb
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\obj\Debug\CS2450_UVSim_Console.csprojResolveAssemblyReference.cache
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\obj\Debug\CS2450_UVSim_Console.csproj.CoreCompileInputs.cache
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\obj\Debug\CS2450_UVSim_Console.exe
+C:\Users\guest1\Documents\Visual Studio 2017\Projects\CS2450_UVSim_git\CS2450_UVSim\CS2450_UVSim_Console\obj\Debug\CS2450_UVSim_Console.pdb
